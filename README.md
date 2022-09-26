@@ -11,5 +11,6 @@ This workshop requires the following:
 
 ## Resource Links
 
+* Unicode Snowman - https://unicodesnowmanforyou.com/
 * What is an API explainer video - https://www.youtube.com/watch?v=s7wmiS2mSXY
 * Angie Jones’ talk Which Tests Should We Automate - https://www.youtube.com/watch?v=VL-_pnICmGY
