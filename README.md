@@ -14,3 +14,7 @@ This workshop requires the following:
 * Unicode Snowman - https://unicodesnowmanforyou.com/
 * What is an API explainer video - https://www.youtube.com/watch?v=s7wmiS2mSXY
 * Angie Jones’ talk Which Tests Should We Automate - https://www.youtube.com/watch?v=VL-_pnICmGY
+
+## Completed Code from workshop at TQ2022
+
+https://github.com/g33klady/ApiChecksWithRestSharp_2022Updates/tree/WorkshopBranch
